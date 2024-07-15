@@ -1,0 +1,101 @@
+.learnmore{
+    font-size: 16px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: italic;
+  background: black;
+  text-align: center;
+margin: 2rem;
+}
+
+img{
+    width: 65%;
+    border: .8rem double firebrick;
+    border-bottom: .8rem dashed yellow;
+    background-position-x: center;
+    background-position-y: center;
+    background-color: black;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 3rem;
+    border-bottom-left-radius: 23%;
+    border-bottom-right-radius: 20%;
+}
+
+#coding-ca{
+display: inline-flex;
+}
+
+#coding-ch{
+    background: dodgerblue;
+    color: white;
+}
+
+#coding-cb{
+    background: linear-gradient(red,dodgerblue,green);
+}
+
+#coding-cf{
+    background: firebrick;
+    color: white;
+}
+#computer-ch{
+    background: gold;
+    color: black;
+}
+#computer-cb{
+    background: linear-gradient(dodgerblue,green,red,black,blue);
+}
+#computer-cf{
+    background: green;
+    color: white;
+}
+
+#math-ch{
+    background: midnightblue;
+    color: white;
+}
+
+#math-cb{
+    background: linear-gradient(midnightblue,white,dodgerblue,gold,black);
+}
+#math-cf{
+   color: blue;
+   background: darkgray;
+}
+#archer-ch{
+    color: crimson;
+    background: gold;
+}
+#archery-cb{
+    background:linear-gradient(pink,black,dodgerblue,crimson)
+}
+#archery-cf{
+    background: red;
+    color: white;
+}
+#history-ch{
+    background: red;
+    color: yellow;
+}
+#history-cb{
+    background: linear-gradient(black,white,red,blue);
+}
+#history-cf{
+    background: darkblue;
+    color: white;
+}
+#pottery-ch{
+    background:darkgreen ;
+    color: white;
+}
+
+#pottery-cb{
+    background: linear-gradient(blue, skyblue,black,crimson );
+}
+
+#pottery-cf{
+    background: gold;
+    color: 
+    red;
+}
